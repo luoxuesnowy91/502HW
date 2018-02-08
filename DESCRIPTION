@@ -1,0 +1,11 @@
+Package: MyPackage
+Type: Package
+Title: My first package
+Version: 0.1.0
+Author: Xue Luo <snowyluoxue@gmail.com>
+Maintainer: Xue Luo <snowyluoxue@gmail.com>
+Description: Sample package
+License: HU
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
